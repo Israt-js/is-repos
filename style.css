@@ -139,3 +139,11 @@ main{
     display: flex;
     justify-content: center;
 }
+
+footer{
+    display: flex;
+    background: #fff8ff;
+    margin-top: 100px;
+    padding: 110px 100px;
+}
+
