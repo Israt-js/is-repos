@@ -120,8 +120,22 @@ main{
     height: 100px;
     width: 150px;
 }
+.section-title{
+    font-size: 30px;
+}
 .resume-col-title{
     color: #474747;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
+}
+.resume-container{
+    display: flex;
+    gap: 60px;
+    font-size: 10px;
+}
+
+.download-cv{
+    margin: 40px;
+    display: flex;
+    justify-content: center;
 }
