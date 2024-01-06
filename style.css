@@ -151,10 +151,16 @@ footer{
     background-color: #c7e4c9;
 }
 
-
+.social{
+    margin: 10px;
+    padding: 4px;
+}
 .footer-col form{
     text-align: left;
     margin-left: 90px;
 
 }
 
+.space{
+   padding: 10px;
+}
