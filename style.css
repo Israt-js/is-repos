@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Kalnia&family=Nunito+Sans:ital,opsz,wght@0,6..12,500;0,6..12,700;0,6..12,900;1,6..12,400&family=Open+Sans:wght@400;700&family=Playfair+Display:ital,wght@1,400;1,500&family=Roboto+Condensed&family=Roboto+Slab&family=VT323&display=swap');
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.primary-color{
+    color: #09aa13;
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #09aa13;
+    border: 0;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 30px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+}
+.nav-title{
+    color: #181818;
+    font-size: 40px;
+    font-weight: 800;
+}
+nav >ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 30px;
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+.header{
+    background-color: #c7e4c9;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .pro-pic{
+    width: 500px;
+}
+
