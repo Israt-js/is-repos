@@ -146,4 +146,15 @@ footer{
     margin-top: 100px;
     padding: 110px 100px;
 }
+.footer-col{
+    width: 50%;
+    background-color: #c7e4c9;
+}
+
+
+.footer-col form{
+    text-align: left;
+    margin-left: 90px;
+
+}
 
